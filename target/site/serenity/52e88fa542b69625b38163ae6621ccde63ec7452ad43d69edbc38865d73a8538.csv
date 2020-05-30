@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Store test with tags","This test will get store information by ID","ERROR","2020-05-29T18:02:41.980+01:00[Europe/London]","0.0","1.27"
+"Store test with tags","This test will update the store information and verify the updated information","FAILURE","2020-05-29T18:02:43.805+01:00[Europe/London]","0.0","1.84"
+"Store test with tags","This test will update the store information and verify the updated information","FAILURE","2020-05-29T18:02:43.805+01:00[Europe/London]","0.0","1.84"
+"Store test with tags","This test will delete the store and verify the store is deleted ","ERROR","2020-05-29T18:02:45.685+01:00[Europe/London]","0.0","1.6"

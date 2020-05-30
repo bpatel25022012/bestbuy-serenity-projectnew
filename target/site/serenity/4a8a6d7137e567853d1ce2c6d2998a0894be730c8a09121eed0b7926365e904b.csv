@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Store test with tags","This test will delete the store and verify the store is deleted ","ERROR","2020-05-29T18:02:45.685+01:00[Europe/London]","0.0","1.6"
